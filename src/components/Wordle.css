@@ -8,7 +8,7 @@
   grid-gap: 5px;
   box-sizing: border-box;
 }
-.guess {
+.row {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 5px;

@@ -6,3 +6,12 @@
   justify-content: space-evenly;
   color: white;
 }
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.row {
+  display: row;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
